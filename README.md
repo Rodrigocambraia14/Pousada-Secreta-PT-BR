@@ -1,6 +1,6 @@
 # Pousada-Secreta[PT-BR]
- Um projeto front-end para uma pousada localizada em Angra dos Reis.
+ Front-end project for a Hotel at Angra dos Reis.
 
-feito com: HTML5, CSS3;
+made with: HTML5, CSS3;
  
- [Em desenvolvimento]
+ [under development]
